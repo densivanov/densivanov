@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-- 🧑‍💼 **Entrepreneur & Data Analyst** based in 🌍 **Berlin, Germany**.
+- 🧑‍💼 **Entrepreneur & Product Analyst** based in 🌍 **Warsaw, Poland**.
 - 🎯 Focused on **Product Analytics**, **Growth** and **data-driven decisions**.
 - 🧠 I build products and run the **analytics** behind them, from raw events to dashboards that move metrics.
 - 📊 I live in **SQL & Python**, model data with **dbt**, and ship insights with **Lightdash / Tableau**.
