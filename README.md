@@ -16,23 +16,12 @@
 
 ## 👋 About me
 
-```python
-class Denis:
-    def __init__(self):
-        self.role        = "Entrepreneur & Data Analyst"
-        self.location    = "🌍 Berlin, Germany"
-        self.focus       = ["Product Analytics", "Growth", "Data-driven decisions"]
-        self.daily_tools = ["SQL", "Python", "BigQuery", "dbt", "Lightdash"]
-        self.mindset     = "Measure first, then build."
-
-    def say_hi(self):
-        return "Let's turn numbers into a story that drives action. 🚀"
-```
-
-- 🧠 I build products and run the **analytics** behind them — from raw events to dashboards that move metrics.
+- 🧑‍💼 **Entrepreneur & Data Analyst** based in 🌍 **Berlin, Germany**.
+- 🎯 Focused on **Product Analytics**, **Growth** and **data-driven decisions**.
+- 🧠 I build products and run the **analytics** behind them, from raw events to dashboards that move metrics.
 - 📊 I live in **SQL & Python**, model data with **dbt**, and ship insights with **Lightdash / Tableau**.
 - 🧩 Curious about everything that can be measured: funnels, cohorts, LTV, retention, P&L.
-- 🌱 Always experimenting — with data, with products, with ideas.
+- 🌱 Always experimenting with data, with products, with ideas.
 
 ---
 
@@ -86,7 +75,7 @@ class Denis:
 
 </div>
 
-> 🔎 **product_analytics_projects** — my data science & data-analyst case studies: real datasets, clean notebooks, business-driven conclusions.
+> 🔎 **product_analytics_projects**: my data science & data-analyst case studies with real datasets, clean notebooks, business-driven conclusions.
 
 ---
 
@@ -97,13 +86,6 @@ class Denis:
 <a href="mailto:dennis811box@gmail.com">
   <img src="https://img.shields.io/badge/Email-dennis811box@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-
-<br/><br/>
-
-<i>💡 Replace the LinkedIn link above with your profile URL.</i>
 
 </div>
 
