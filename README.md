@@ -65,20 +65,6 @@
 
 ---
 
-## 📌 Featured
-
-<div align="center">
-
-<a href="https://github.com/densivanov/product_analytics_projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=densivanov&repo=product_analytics_projects&theme=tokyonight&hide_border=true" alt="product_analytics_projects" />
-</a>
-
-</div>
-
-> 🔎 **product_analytics_projects**: my data science & data-analyst case studies with real datasets, clean notebooks, business-driven conclusions.
-
----
-
 ## 📫 Let's connect
 
 <div align="center">
